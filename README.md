@@ -22,7 +22,7 @@ This script import an Axiom (Affymetrix) intensity data for 87 sex probes and as
        ##################################################################################################################
        
 ### The output files  
-        - Assigned sex of each sample (ID, intensity score, Sex[M,F])
+        - Assigned sex of each sample (ID, average intensity score, Sex[M,F])
         - Plot of the intensity scores (distrbition and the average score per sample) - outname.tiff 
             Note that: the plot can be used to determine the intensity threshold to use
             
